@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>
+      Hello! My name is Elise and this is my midterm project. I am not entirely sure what to put in this webpage,
+      so I will be writing about my new favorite game: Slime Rancher 2!
+    </h1>
+    <a href="https://www.slimerancher.com/">Info from the source!</a>
+    <img src="https://assets-prd.ignimgs.com/2021/06/13/screenshot-1-1623606797401.png" />
+    
+    <p>Slime Rancher is a sequel to/expansion of the original game Slime Rancher, 
+    which is about a woman who goes into the undocumented "Far, Far Range" to gather and farm slimes! 
+    There are many things you can do in the game, such as:"</p>
+    
+    <ul>
+      <li>Gather Slimes</li>
+      <li>Breed Slimes</li>
+      <li>Sell Plorts</li>
+      <li>Explore the Far, Far Range</li>
+      <li>Build Gadgets</li>
+      <li><em>And More!</em></li>
+    </ul>
+    
+    <p>There are a few things you must know before you can jump in though! For instance, 
+    the plorts you need to sell come from feeding slimes and harvesting what they leave behind.
+    Other notable topics are:</p>
+    <ol>
+      <li><a href="./plort_marktet">The Plort Market</a></li>
+      <li><a href="./tarr_slime.html">Tarr Slimes</a></li>
+      <li><a href="./food_types.html">Food Types</a></li>
+      <li><a href="./special_requirements.html">Special Requirements</a></li>
+    </ol>
+    
+    <p>But really you can start whenever you want, and you can learn everything
+    you need to know while playing the game. And that way, you can also enjoy the improved 
+    graphics and movement that come with <strong>Slime Rancher 2!</strong></p>
+    
+  </body>
+</html>
